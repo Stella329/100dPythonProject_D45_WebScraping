@@ -4,14 +4,13 @@ import requests
 # Get HTML file
 response = requests.get('https://news.ycombinator.com/news')
 HTML = response.text
-
 soup = BeautifulSoup(HTML, 'html.parser')
 
-# get the first title
-article1 = soup.find(name='span', class_='titleline').find(name='a')
-article1_name = article1.get_text()    ##--> Open source AI is the path forward
-article1_link = article1.get('href')     ## --> https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/
-article1_upvote = soup.find(name='span', class_='score').get_text() ## --> 1846 points
+# # get the first title
+# article1 = soup.find(name='span', class_='titleline').find(name='a')
+# article1_name = article1.get_text()    ##--> Open source AI is the path forward
+# article1_link = article1.get('href')     ## --> https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/
+# article1_upvote = soup.find(name='span', class_='score').get_text() ## --> 1846 points
 
 # get all titles and info
 articleNames =[]
