@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="429145ab-fd66-42d6-adeb-21a6f2ceca69" name="Changes" comment="7/24">
-      <change afterPath="$PROJECT_DIR$/D45final_100MovieThatYouMustWatch_webScraping.py" afterDir="false" />
+    <list default="true" id="429145ab-fd66-42d6-adeb-21a6f2ceca69" name="Changes" comment="7/26">
+      <change afterPath="$PROJECT_DIR$/D46_spotifyPlayListUsingMusicalTimeMachine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerNews_Scaping.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews_Scaping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews_Scaping.py" beforeDir="false" afterPath="$PROJECT_DIR$/D45_HackerNews_Scaping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.D45final_100MovieThatYouMustWatch_webScraping.executor": "Run",
+    "Python.D46_spotifyPlayListUsingMusicalTimeMachine.executor": "Run",
     "Python.HackerNews_Scaping.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721814619410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7/26">
+      <option name="closed" value="true" />
+      <created>1721983270745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721983270745</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/24" />
+    <MESSAGE value="7/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/26" />
   </component>
 </project>
