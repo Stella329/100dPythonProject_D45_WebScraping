@@ -1,0 +1,100 @@
+1) The Godfather --1972 
+2) The Empire Strikes Back 
+3) The Dark Knight --2008 
+4) The Shawshank Redemption --1994 
+5) Pulp Fiction --1994 
+6) Goodfellas --1990 
+7) Raiders Of The Lost Ark --1981 
+8) Jaws --1975 
+9) Star Wars --1977 
+10) The Lord Of The Rings: The Fellowship Of The Ring --2001 
+11) Back To The Future --1985 
+12: The Godfather Part II --1974 
+13) Blade Runner --1982 
+14) Alien --1979 
+15) Aliens --1986 
+16) The Lord Of The Rings: The Return Of The King --2003 
+17) Fight Club --1999 
+18) Inception --2010 
+19) Jurassic Park --1993 
+20) Die Hard --1988 
+21) 2001: A Space Odyssey --1968 
+22) Apocalypse Now --1979 
+23) The Lord Of The Rings: The Two Towers --2002 
+24) The Matrix --1999 
+25) Terminator 2: Judgment Day --1991 
+26) Heat --1995 
+27) The Good, The Bad And The Ugly --1966 
+28) Casablanca --1942 
+29) The Big Lebowski --1998 
+30) Seven --1995 
+31) Taxi Driver --1976 
+32) The Usual Suspects --1995 
+33) Schindler's List --1993 
+34) Guardians Of The Galaxy --2014 
+35) The Shining --1980 
+36) The Departed --2006 
+37) The Thing --1982 
+38) Mad Max: Fury Road --2015 
+39) Saving Private Ryan --1998 
+40) 12 Angry Men --1957 
+41) Eternal Sunshine Of The Spotless Mind --2004 
+42) There Will Be Blood --2007 
+43) One Flew Over The Cuckoo's Nest --1975 
+44) Gladiator --2000 
+45) Drive --2011 
+46) Citizen Kane --1941 
+47) Interstellar --2014 
+48) The Silence Of The Lambs --1991 
+49) Trainspotting --1996 
+50) Lawrence Of Arabia --1962 
+51) It's A Wonderful Life --1946 
+52) Once Upon A Time In The West --1968 
+53) Psycho --1960 
+54) Vertigo --1958 
+55) Pan's Labyrinth --2006 
+56) Reservoir Dogs --1992 
+57) Whiplash --2014 
+58) Inglourious Basterds --2009 
+59) E.T. – The Extra Terrestrial --1982 
+60) American Beauty --1999 
+61) Forrest Gump --1994 
+62) La La Land --2016 
+63) Donnie Darko --2001 
+64) L.A. Confidential --1997 
+65) Avengers Assemble --2012 
+66) Return Of The Jedi --1983 
+67) Memento --2000 
+68) Ghostbusters --1984 
+69) Singin' In The Rain --1952 
+70) The Lion King --1994 
+71) Hot Fuzz --2007 
+72) Rear Window --1954 
+73) Seven Samurai --1954 
+74) Mulholland Dr. --2001 
+75) Fargo --1996 
+76) A Clockwork Orange --1971 
+77) Toy Story --1995 
+78) Oldboy --2003 
+79) Captain America: Civil War --2016 
+15) Spirited Away 
+81) The Social Network --2010 
+82) Some Like It Hot --1959 
+83) True Romance --1993 
+84) Rocky --1976 
+85) Léon --1994 
+86) Indiana Jones And The Last Crusade --1989 
+87) Predator --1987 
+88) The Exorcist --1973 
+89) Shaun Of The Dead --2004 
+90) No Country For Old Men --2007 
+91) The Prestige --2006 
+92) The Terminator --1984 
+93) The Princess Bride --1987 
+94) Lost In Translation --2003 
+95) Arrival --2016 
+96) Good Will Hunting --1997 
+97) Titanic --1997 
+98) Amelie --2001 
+99) Raging Bull --1980 
+100) Stand By Me --1986 

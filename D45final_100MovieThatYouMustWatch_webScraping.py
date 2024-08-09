@@ -27,7 +27,7 @@ movie_list = title_list[::-1] ## reverse -->  ['1) The Godfather--1972', '2) The
 
 
 # Write titles in a txt file:
-with open ('MoiveNames.txt', mode='w', encoding="ISO-8859-1") as txt:
+with open ('D45final_MoiveNames.txt', mode='w', encoding="ISO-8859-1") as txt:
     for movie in movie_list:
         txt.write(f'{movie} \n')
 # print(request.encoding) ##-->ISO-8859-1
