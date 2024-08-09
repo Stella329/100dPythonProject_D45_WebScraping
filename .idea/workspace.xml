@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="429145ab-fd66-42d6-adeb-21a6f2ceca69" name="Changes" comment="8/2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D46_spotifyPlayListUsingMusicalTimeMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/D46_spotifyPlayListUsingMusicalTimeMachine.py" afterDir="false" />
-    </list>
+    <list default="true" id="429145ab-fd66-42d6-adeb-21a6f2ceca69" name="Changes" comment="8/9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722772040551</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="8/9">
+      <option name="closed" value="true" />
+      <created>1723175353753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723175353753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="8/9">
+      <option name="closed" value="true" />
+      <created>1723175434186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723175434186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +133,7 @@
     <MESSAGE value="7/24" />
     <MESSAGE value="7/26" />
     <MESSAGE value="8/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="8/2" />
+    <MESSAGE value="8/9" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/9" />
   </component>
 </project>

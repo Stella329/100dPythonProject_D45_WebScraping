@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup #the latest versin of Beautiful Soup
 # import lxml  #--if soup = BeautifulSoup(html_doc, 'lxml')
 
-HTML = open('website.html', 'r')
+htmlFile = open('website.html', 'r')
 
 # Parsing
-soup = BeautifulSoup(HTML, 'html.parser')
+soup = BeautifulSoup(htmlFile, 'html.parser')
 
 # Indent HTML file
 print(soup.prettify())
@@ -62,4 +62,4 @@ for tag in all_anchor_tags:
     tag.get('href') #return: https://www.appbrewery.co/
 
 
-HTML.close()
+htmlFile.close()
