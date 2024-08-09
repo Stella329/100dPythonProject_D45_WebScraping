@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="429145ab-fd66-42d6-adeb-21a6f2ceca69" name="Changes" comment="7/26">
-      <change afterPath="$PROJECT_DIR$/D46_spotifyPlayListUsingMusicalTimeMachine.py" afterDir="false" />
+    <list default="true" id="429145ab-fd66-42d6-adeb-21a6f2ceca69" name="Changes" comment="8/2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerNews_Scaping.py" beforeDir="false" afterPath="$PROJECT_DIR$/D45_HackerNews_Scaping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D46_spotifyPlayListUsingMusicalTimeMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/D46_spotifyPlayListUsingMusicalTimeMachine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/Stella/PythonProjectFiles/PycharmProject/pythonProject_D45_WebScraping"
+    "last_opened_file_path": "E:/Stella/PythonProjectFiles/PycharmProject/pythonProject_D45_WebScraping",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,12 +94,32 @@
       <option name="project" value="LOCAL" />
       <updated>1721983270745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="8/2">
+      <option name="closed" value="true" />
+      <created>1722772040551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722772040551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7/24" />
     <MESSAGE value="7/26" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/26" />
+    <MESSAGE value="8/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/2" />
   </component>
 </project>
